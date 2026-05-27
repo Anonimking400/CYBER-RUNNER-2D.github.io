@@ -1,0 +1,6 @@
+{
+  "name": "Game Platformer 2D",
+  "description": "Game platformer 2D seru dengan sistem level, power-ups, perisai, tembakan proyektil, musuh bervariasi, dan musik latar adaptif berbasis Web Audio API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
